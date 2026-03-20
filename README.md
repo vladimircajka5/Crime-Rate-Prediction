@@ -1,2 +1,2 @@
-# PROJEKAT_NANS
-Predikcija stope nasilnog kriminala primenom naprednih regresionih modela i ansambala
+# Crime rate prediction
+Crime rate prediction using CatBoost and regression
